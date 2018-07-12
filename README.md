@@ -84,7 +84,7 @@ Agora requires WebRTC to run. To alert users that their browser does not support
 
 ``` JavaScript
 if(!AgoraRTC.checkSystemRequirements()) {
-  alert("browser is no support webRTC");
+  alert("Your browser does not support WebRTC!");
 }
 ```
 
@@ -189,7 +189,7 @@ Specifically:
 Once the client has been created, the sample app initializes the client by passing the app ID to the [`client.init()`](https://docs.agora.io/en/2.2/product/Voice/API%20Reference/communication_web_audio#voice-call-api) method. In the sample app, the app ID is the text in the UI text field labeled `Key`.
 
 ``` JavaScript
-  client.init(key.value, function () {
+  client.init(appId.value, function () {
     console.log("AgoraRTC client initialized");
     
     ...
