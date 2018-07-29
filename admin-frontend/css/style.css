@@ -1269,7 +1269,7 @@ a.top-sign {
     width: 100%;
 }
 .content-grid {
-    width:25%;
+    width:33%;
     float: left;
     text-align: center;
     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.35);
@@ -1971,7 +1971,7 @@ border-radius: 4px;
     -moz-border-radius: 4px;
 	}
 	.content-grid {
-    width: 21.2%;
+    width: 33%;
 }
 /*---browse-grid-----*/
 .browse-grid {
@@ -2899,7 +2899,7 @@ text-decoration:none;
 /*---responsive-----*/
 @media (max-width:1600px){
 	.content-grid {
-		width: 25%;
+		width: 33%;
 	}
 	.price-section {
 		padding: 2em 2em;
@@ -2923,7 +2923,7 @@ text-decoration:none;
 }
 @media (max-width:1440px){
 	.content-grid {
-		width: 24.1%;
+		width: 33%;
 		margin-right: 1%;
 	}
 	.content-grid.last-grid {
