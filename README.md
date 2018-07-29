@@ -522,11 +522,8 @@ function disableVideo() {
 }
 ```
 
-## Resources
-* Complete API documentation is available at the [Document Center](https://docs.agora.io/en/).
-* You can file bugs about this sample [here](https://github.com/AgoraIO/Agora-Web-Tutorial-1to1/issues).
 
 
-## License
-This software is under the MIT License (MIT). [View the license](LICENSE.md).
-
+## Useful Applications of the project
+1.Monitoring locations struck under fire or other natural calamities and experts from different locations can give evacuation instructions to the people struck in it.(It can be used in monitoring and fighting with criminal activities as well)
+2.The corresponding feed of the disaster can be sent to the concerned department which will help them in easy monitoring and analysing the depth of the situation
